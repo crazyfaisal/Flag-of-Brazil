@@ -1,0 +1,28 @@
+.brazil-box{border: 2px solid rgb(255, 0, 0);
+    background-color: green;
+    width: 350px;
+    height: 180px;
+    box-sizing: border-box;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+div.one{border: 2px solid rgb(235, 235, 25);
+    width: 100px;
+    height: 100px;
+    background-color: rgb(210, 231, 23);
+    position: absolute;
+    top: 40px;
+    left: 125px;
+    transform: rotate(45deg);
+}
+div.two{border: 2px solid rgb(235, 235, 25);
+    width: 60px;
+    height: 60px;
+    background-color: rgb(77, 20, 162);
+    position: absolute;
+    top: 60px;
+    left: 145px;
+    border-radius: 100%;
+}
